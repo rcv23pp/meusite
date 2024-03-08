@@ -13,4 +13,5 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
 }
