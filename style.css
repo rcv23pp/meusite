@@ -11,4 +11,5 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #424e61;
     color: white;
     display: flex;
+    justify-content: space-around;
 }
