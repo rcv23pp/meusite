@@ -39,3 +39,11 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     align-items: center;
     padding: 24px 0;
     }
+
+    .escola-div-conteudo {
+        width: 35%;
+    }
+
+    .escola-titulo {
+        padding: 24px 0;
+    }
