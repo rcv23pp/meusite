@@ -34,4 +34,5 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     .escola {
     background-image: linear-gradient(#424E61, #16CFF8);
     color: white;
+    display: flex;
     }
