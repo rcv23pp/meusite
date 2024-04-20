@@ -70,3 +70,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         text-align: center;
         padding: 50px;
     }
+
+     .estudante-todos {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+     }
